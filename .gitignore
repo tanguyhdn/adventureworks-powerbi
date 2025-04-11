@@ -1,0 +1,12 @@
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Power BI cache/temp files
+*.pbip
+*.tmp
+*.bak
+
+# OS-specific
+.DS_Store
+Thumbs.db

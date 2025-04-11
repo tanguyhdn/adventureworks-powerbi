@@ -26,12 +26,12 @@
 
 ## 📸 Preview
 
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](screenshots/Financial_Page.jpg)
 
 ---
 
 ## 🧠 Author
 
 **Tanguy**  
-[LinkedIn](https://...) | [Portfolio](https://...) (optional)
+
 
